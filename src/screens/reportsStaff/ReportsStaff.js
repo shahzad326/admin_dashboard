@@ -1,0 +1,13 @@
+import React from 'react'
+import './reportsStaff.css'
+
+const ReportsStaff = () => {
+  return (
+    <div className='reportsStaff'>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam, facere! Quod assumenda veniam dolorum nam hic accusantium itaque repellendus aspernatur numquam sint laudantium ex at tempore beatae atque libero, provident maxime qui voluptatibus cupiditate laborum accusamus ducimus. Voluptatibus quae eius reprehenderit accusamus totam quo enim, necessitatibus sapiente corrupti fuga ea repellendus dolorum tempora odio expedita commodi modi voluptas vero inventore. Voluptatum perferendis aliquam, corporis nemo, velit sequi repudiandae quod magni amet molestias necessitatibus accusantium odit aut esse et provident animi inventore at? Maxime debitis ipsa itaque in vero reprehenderit quas similique officia quae numquam? Amet vel dolor veritatis labore? Non deleniti sunt temporibus rerum esse inventore modi amet eum provident officiis. Ducimus molestias odit voluptatibus ex, at vel adipisci, dolore magnam blanditiis fugiat aut dignissimos magni eos nihil mollitia quaerat iste. Officia incidunt inventore at nulla praesentium iusto dicta nesciunt quam voluptate vel sed magni non eum, sit dolores ea suscipit tenetur adipisci, beatae cum a eligendi eveniet voluptatem. Sit voluptatibus aspernatur in quibusdam ullam similique laboriosam saepe obcaecati vel, consequatur ipsum iste vero asperiores quam, ut nulla fugit cupiditate iusto est! Voluptas minus excepturi accusantium asperiores quasi voluptatem dicta aut delectus, praesentium itaque sunt at unde a officia molestias incidunt atque eveniet eligendi fugiat labore esse rerum? Veritatis, laborum molestias? Consectetur corporis numquam illo repellendus iusto quia, perferendis ea totam saepe? Quas itaque debitis fuga ut ex. Autem possimus corporis deserunt error ex tempore enim excepturi id, amet sit obcaecati officia repudiandae ipsa voluptatum maxime qui aut illum ipsam aliquid soluta? Officia, quasi sapiente? Eaque repudiandae amet facilis, in modi eius quo quibusdam id dolore ratione veritatis distinctio ipsum alias explicabo quaerat laboriosam praesentium, beatae nostrum ad neque velit aliquid quae! Quia nesciunt quae voluptas non possimus expedita modi eius suscipit harum, dolore provident placeat, reiciendis facere deserunt dolorem adipisci repudiandae quis. Repellat consectetur ipsum cupiditate in illo, quia veniam! Fuga nulla molestiae, suscipit doloremque ab accusantium? Officia necessitatibus nam suscipit molestias provident blanditiis laboriosam veritatis minus, natus, rem alias quos ipsa.
+      
+    </div>
+  )
+}
+
+export default ReportsStaff

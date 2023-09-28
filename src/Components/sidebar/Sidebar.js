@@ -25,19 +25,26 @@ const Sidebar = () => {
           <div className='sidebarMenu'>
             <h3 className='sidebarTitle'> Dashboard</h3>
             <ul className='sidebarList'>
+            <Link to='/' className='link'>
               <li className='sidebarListItem active'>
                 <Home className='sidebarIcon' /> Home
-              </li>
+                </li>
+                </Link>
 
-              <li className='sidebarListItem'>
-                <ShowChart /> Analytics
-              </li>
+              <Link to='/analytics' className='link'>
+                <li className='sidebarListItem'>
+                  <ShowChart /> Analytics
+                </li>
+              </Link>
 
+              <Link to='/sales' className='link'>
               <li className='sidebarListItem'>
                 <Timeline /> Sales
               </li>
+              </Link>
             </ul>
-          </div>
+            </div>
+          
 
           <div className='sidebarMenu'>
             <h3 className='sidebarTitle'> Quick Menu </h3>
@@ -53,48 +60,58 @@ const Sidebar = () => {
                 </li>
               </Link>
 
+              <Link to='/sales' className='link'>
               <li className='sidebarListItem'>
                 <MonetizationOn /> Transactions
               </li>
+              </Link>
 
+              <Link to='/reports' className='link'>
               <li className='sidebarListItem'>
                 <ReportGmailerrorred /> Reports
               </li>
+              </Link>
             </ul>
           </div>
 
           <div className='sidebarMenu'>
             <h3 className='sidebarTitle'>Notifications</h3>
             <ul className='sidebarList'>
+            <Link to='/mail' className='link'>
               <li className='sidebarListItem '>
                 <MailOutlineOutlined className='sidebarIcon' /> Mail
               </li>
+              </Link>
 
+              <Link to='/feedbacks' className='link'>
               <li className='sidebarListItem'>
                 <FeedbackOutlined /> Feedbacks
               </li>
+              </Link>
 
+<Link to='/messages' className='link'>
               <li className='sidebarListItem'>
                 <Message /> Messages
               </li>
+              </Link>
             </ul>
           </div>
 
           <div className='sidebarMenu'>
             <h3 className='sidebarTitle'> Staff</h3>
             <ul className='sidebarList'>
+            <Link to='/manage' className='link'>
               <li className='sidebarListItem '>
                 <ManageAccounts className='sidebarIcon' /> Manage
               </li>
+              </Link>
 
-              <li className='sidebarListItem'>
-                <Analytics className='sidebarIcon' /> Analytics
-              </li>
-
+              <Link to='/reports' className='link'>
               <li className='sidebarListItem'>
                 <Report className='sidebarIcon' />
                 Reports
               </li>
+              </Link>
             </ul>
           </div>
         </div>

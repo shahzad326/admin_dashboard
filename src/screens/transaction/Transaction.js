@@ -1,0 +1,13 @@
+import React from 'react'
+import './transaction.css'
+
+const Transaction = () => {
+  return (
+    <div className='transaction'>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi, saepe? Facere aliquid id mollitia distinctio beatae quis autem inventore dolore eius aspernatur velit a delectus quisquam, voluptate minus qui deleniti suscipit ullam illum veniam minima nesciunt nihil vitae. Nemo dolores ab voluptatem dolorum quod amet velit vitae ex mollitia debitis, impedit doloribus. Perferendis, optio quas? Consectetur cum at totam aspernatur vero vitae praesentium eum, repudiandae deleniti numquam odit odio tenetur ipsa voluptates adipisci hic provident temporibus unde? Vel quod ut et distinctio ex libero voluptate sequi. Odio iusto, recusandae alias cumque iste perspiciatis, praesentium eaque minus eum natus quaerat modi, adipisci vel doloribus eveniet obcaecati earum repellendus velit tenetur cupiditate quo quisquam? Nemo animi non, nesciunt beatae eligendi voluptas ex distinctio exercitationem. Omnis dolores odio nemo a animi tempora maiores nihil tempore mollitia, porro ipsum voluptates, et sint corrupti voluptatum deleniti? Nesciunt iure sit, suscipit soluta dolores debitis. Mollitia quasi, impedit magnam consequuntur amet eligendi deserunt quos nostrum recusandae, doloremque et saepe totam praesentium obcaecati soluta quaerat ducimus. Tenetur, corporis deleniti odio rerum excepturi tempora suscipit quas numquam accusamus rem laborum exercitationem pariatur eveniet cupiditate fugiat a adipisci esse dignissimos iste. Dolorum id mollitia quaerat et. Est ut cupiditate perferendis voluptates corporis rerum ipsam voluptate, recusandae repellendus. Eveniet illo repellat sint odit mollitia adipisci laboriosam numquam officia quaerat? Quas expedita laudantium, fugit ipsam dolores repellendus delectus eum sit illo qui nobis, ab nesciunt impedit odit nam voluptatum commodi corrupti accusantium, unde incidunt laboriosam! Repellendus, cum. Cumque officia nisi, doloremque non doloribus similique, harum, facilis explicabo accusamus pariatur minima fugit? Dolore iusto nobis modi, recusandae laboriosam neque eius. Pariatur tempora quo a explicabo inventore distinctio repellendus corrupti deserunt nostrum ullam libero quod, ipsam autem, illo ad laboriosam eius? Itaque dolores, ipsam quaerat voluptate ea magni? Voluptate ea enim magni odit! Ipsa amet id aspernatur consectetur, laboriosam dicta officia perferendis itaque et excepturi. Nisi pariatur animi repellendus ducimus ea ipsam eaque harum atque corporis rem, aliquam voluptate? Omnis quas quae iure explicabo quo excepturi inventore?
+      
+    </div>
+  )
+}
+
+export default Transaction

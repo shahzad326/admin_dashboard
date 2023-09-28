@@ -1,0 +1,13 @@
+import React from 'react'
+import './message.css'
+
+const Message = () => {
+  return (
+    <div className='message'>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, mollitia eaque? Amet quae earum consectetur quod unde! Esse, repellendus totam exercitationem repellat quasi tempore veritatis dolor doloribus culpa voluptate illo quo minus, iure earum, quia eaque facilis? Saepe minus optio vero aspernatur consequuntur enim omnis consectetur, natus maxime nobis eos deleniti suscipit sed ex cum veniam. Sit sed, facilis veniam vero vel magni voluptatum voluptates. Facere qui, ipsa modi esse eaque quaerat consequuntur quae consequatur! Numquam dolorem quis, quidem eius porro aliquam corrupti architecto error. Sit nostrum expedita quidem aliquam, quam aperiam, porro adipisci tempora debitis fuga quibusdam temporibus, sed accusamus assumenda vero! Sequi necessitatibus beatae inventore dolores cupiditate repellendus id, similique ipsa reiciendis eum, ducimus dignissimos est illum, nam optio earum architecto adipisci omnis commodi et explicabo. Nemo ducimus similique natus quo repellendus modi iure quod laborum dolor voluptatibus voluptatem temporibus reiciendis exercitationem maiores praesentium corrupti necessitatibus libero unde autem consequatur, ut labore eum. Vitae nisi voluptas magnam libero optio distinctio minus ullam, aspernatur facilis modi sunt ducimus iste quod recusandae eos in et debitis enim cumque molestiae incidunt placeat. Alias id quaerat nisi eum atque, velit, voluptas hic ab sequi quis fugiat consequuntur. A, eum eius molestias consequuntur dignissimos est pariatur repudiandae harum sit facilis facere reiciendis quos corrupti eos ex possimus. Molestiae nam aspernatur velit, ratione nostrum voluptatum praesentium incidunt tempora labore minus placeat rem quaerat ut cupiditate eos! Sed quos odit consequuntur assumenda nisi ullam blanditiis dicta, facere totam quis enim numquam veritatis sit expedita? Aperiam inventore, ex modi a, consequuntur voluptatem magni nobis voluptatibus, qui eligendi accusamus minus harum expedita minima officia! Debitis, cumque illum illo eum vel eaque labore, incidunt quia repellendus quo optio accusantium ullam vero earum ex reiciendis voluptates rem voluptate. Quas magnam nam, tenetur nihil itaque beatae similique fuga quae. Voluptatibus, aliquid id! Nam sapiente obcaecati et incidunt debitis, inventore autem quod quisquam animi eligendi, ullam odit itaque minus illum, nemo voluptatibus odio quia? Qui nam praesentium ab obcaecati soluta facere alias officia dignissimos.
+      
+    </div>
+  )
+}
+
+export default Message
